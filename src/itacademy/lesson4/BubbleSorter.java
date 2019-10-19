@@ -1,3 +1,5 @@
+package itacademy.lesson4;
+
 import java.util.Arrays;
 
 public class BubbleSorter {
